@@ -523,7 +523,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .popup-modal .description-box .categories {
    font: 11px/21px 'opensans-light', sans-serif;
-   color: #A1A1A1;
+   color: black;
    text-transform: uppercase;
    letter-spacing: 2px;
    display: block;

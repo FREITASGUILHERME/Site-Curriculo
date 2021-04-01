@@ -417,15 +417,15 @@ ul#nav li.current a {
 }
 
 .Java {
-    width: 15%;
+    width: 25%;
     -moz-animation: Java 3s ease;
     -webkit-animation: Java 3s ease;
 }
 
-.Bootstrap {
+.wordpress {
     width: 35%;
-    -moz-animation: Bootstrap 3s ease;
-    -webkit-animation: Bootstrap 3s ease;
+    -moz-animation: wordpress 3s ease;
+    -webkit-animation: wordpress 3s ease;
 }
 
 .css {

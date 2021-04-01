@@ -441,7 +441,7 @@ ul#nav li.current a {
 }
 
 .jquery {
-    width: 0%;
+    width: 6%;
     -moz-animation: jquery 3s ease;
     -webkit-animation: jquery 3s ease;
 }
